@@ -16,8 +16,11 @@ Sedan missuppfattade vi stegen vidare att installera Dotnet sdk och ubuntu, då 
 
 Tack vare övning 1 var det rätt lätt att förstå övning 2 om man vid installation av SDK följde [**Install .NET Core SDK or .NET Core Runtime on Ubuntu v18.04**] som tidigare i övning 1, laddade ner lektionsrepo från git, öppnade port 5000 via cli för att sedan visa hemsidan.
 
+Pga olika tider då vi kunnat sitta online, har vi ej kunat köra pairprogramming utan fått försöka var och en för sig, även om vi haft skriftlig kontakt via gruppmeddelande och hjälpt varandra. Jag (Micael) som kommit längst, har föreslagit att sitta ihop på fredag då jag kan visa de andra hur man gör med CLI, om de kört fast.
+
 Övning 3:
 
-Det svåraste med denna övning är att koppla på pulumi på Cli. I artikeln som finns under övningsavsnittet finns det länkat att göra på flera sätt och det är inte heller tydligt vilket som fungerar bäst. Det verkar även extra omständigt att gå via Chocolatey package manager. Ytterligare en grej av en djungel av sidor man måste hålla reda på ännu en inloggning.
+Det svåraste med denna övning är att koppla på pulumi på Cli. I artikeln som finns under övningsavsnittet finns det i första avsnittet (Prerequisites: Install Pulumi) länkat att göra på flera sätt och det är inte heller tydligt vilket som fungerar bäst. Det verkar även extra omständligt att gå via Chocolatey package manager: Ytterligare en grej av en djungel av sidor man måste hålla reda på ännu en inloggning.
 
-Än så länge har vi inte lyckats komma längre än att kunna visa versionsnumret av pulumi i cmd.
+Än så länge har jag inte lyckats komma längre än att kunna visa versionsnumret av pulumi i cmd.
+
