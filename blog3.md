@@ -74,3 +74,8 @@ Rent generellt känns det aningen krångligt/tidskrävande att gå via Docker Co
 
 Dock när man har konfigurationen i yaml. filen på plats, så är det lätt att skapa flera instanser i Azure utspritt på flera olika servrar.
 
+## Sammanfattning
+
+I stort var det bra övningar som byggde på varandra så det gick att ta med kunskap som man lärde sig i föregående övning till nästa. Det finns flera olika sätt att få samma resultat. Exempelvis att göra allt eller så mycket som möjligt manuellt via Azure Portal, en variation mellan att skapa manuellt och använda sig av CLI och Docker, eller göra allt via CLI, Docker & Powershell.
+
+I övrigt hade vi en del problem med tekniken. Exempelvis gick det ej för alla att få Docker att fungera, varpå Docker Toolbox användes istället. Men detta resulterade i att det inte gick att hitta något sätt att få Docker Toolbox att köra, således gick det ej att göra övningar som krävde Docker. Var även lite problem med att slå på Virtualization i Bios för någon. Som sagt en del tid gick åt att få programvara och teknik att fungera så det gick att göra övningarna för alla.
